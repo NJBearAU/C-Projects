@@ -17,7 +17,7 @@ int main()
    while(Binary_Decision == 0)                                                      //Declare a while loop stating that if Binary_Decision is equal to zero than continue loop
    {                                                   
         std::cout << "\n\n\rWelcome to the Turing Moore Beam Bending Calculator 1.0.\n\n\r";        //print name of program
-        std::cout << "My name is Jet Rhind and I am the authour of this program.\n\n\r";      //print authour of program
+        std::cout << "My name is NJBearAU and I am the authour of this program.\n\n\r";      //print authour of program
         std::cout << "The due date of this asignment is 03/08/2025.\n\n\r";         //print due date of assignment
         std::cout << "The highest part of the asignment that this program has reached was part 4.\n\n\n\n\r";   //print highest part of assignment reached
         std::cout << "-----------------------------------\n\r";                     //print aesthetics
@@ -248,4 +248,5 @@ int main()
     }
     std::cout << "\n\n\rThank you for using this program, have a nice day, goodbye. :)\n\n\r";          //print goodbye message
     return 0;                                                                       //exit program without any errors
+
 }
